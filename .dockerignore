@@ -1,0 +1,6 @@
+data/ 
+venv/
+.gitignore
+.git 
+README.md
+models/
