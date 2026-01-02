@@ -63,9 +63,9 @@ Ici on est sur le Data efficient image Transformer (DeiT) et on voit qu'on a des
 On a toujours un petit overfit mais qui est bien plus réduit que sur le premier modèle.  
 Les performances sont nettement supérieures à celles de notre CNN léger (ça s'explique par la meilleure qualité des images mais aussi car on compare une bombe atomique à un bébé qui tousse en terme de nombre de paramètres et de complexité).  
 J'aurais pu avoir des performances encore un peu meilleures en dé-freezant plus que la tête de classification mais honnêtement les performances étaient déjà tellement bonnes que je me suis arrêté là.  
-***En utilisant notre nouveau modèle pour prédire les labels de notre test set on a une accuracy de 91.77%.  ***
+***En utilisant notre nouveau modèle pour prédire les labels de notre test set on a une accuracy de 91.77%***
 
-![modele_olf_vs_new](https://imgs.search.brave.com/rc196E1Q6Kwfv8QfLrH_KNaUjmUev6V4NOCzjucwg8M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/aG93LW1hbnktY291/Z2hpbmctYmFiaWVz/LWRvZXMtaXQtdGFr/ZS10by1kZWZlYXQt/b25lLXYwLWxqMTR0/NDV1bDE2ZDEuanBl/Zz93aWR0aD02NDAm/Y3JvcD1zbWFydCZh/dXRvPXdlYnAmcz1k/N2JkZjQ1NWIxMDM5/N2I3NGY1NDg5MjU5/YjVhMTBiNmE2ZTRi/NDQ4)
+![modele_olf_vs_new](https://preview.redd.it/how-many-coughing-babies-does-it-take-to-defeat-one-v0-lj14t45ul16d1.jpeg?width=640&crop=smart&auto=webp&s=d7bdf455b10397b74f5489259b5a10b6a6e4b448)
 
 Les deux moèles ont leurs avantages et leurs inconvénients (majoritairement au niveau de la puissance de calcul nécessaire pour l'entrainement) mais en termes de performances le second l'emporte haut la main.  
 
