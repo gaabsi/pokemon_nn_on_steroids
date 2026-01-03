@@ -1,5 +1,11 @@
 # pokemon_nn_on_steroids
 
+![Python](https://img.shields.io/badge/python-3.9-blue?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.8-EE4C2C?logo=pytorch&logoColor=white)
+![Lightning](https://img.shields.io/badge/Lightning-2.6-792EE5?logo=lightning&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-yellow)
+![Docker](https://img.shields.io/badge/Docker-ready-2496ED?logo=docker&logoColor=white)
+
 ## Description 
 Ce projet est plutot court, il reprend des éléments du projet pokemon_nn qui avait été réalisé dans un cadre scolaire et le pousse a un niveau plus professionnel.  
 Il s'agissait d'un projet de computer vision qui entrainait un classifieur a reconnaitre les pokemons de la première génération.  
